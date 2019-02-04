@@ -1,7 +1,7 @@
 {
   "name": "mvc_design",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Eat-Da-Burger app allows users to input and devour their favorite burgers.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -15,5 +15,14 @@
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpd1208/Eat-Da-Burger.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dpd1208/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/dpd1208/Eat-Da-Burger#readme"
 }
