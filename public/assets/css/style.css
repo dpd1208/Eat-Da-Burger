@@ -1,13 +1,25 @@
+body 
+{
+  background-color: rgb(243, 207, 0)
+}
 .jumbotron {
   text-align: center;
+  background-color: transparent;
 }
+
 h2 {
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: transparent;
 }
 
 .label {
@@ -22,6 +34,7 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+  text-align: center;
 }
 
 .col1 {
